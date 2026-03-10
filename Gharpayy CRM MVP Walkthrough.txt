@@ -1,3 +1,6 @@
+https://gharpayycrm.web.app/
+try it out
+
 Gharpayy CRM MVP Walkthrough
 This walkthrough demonstrates the core functionality of the Gharpayy Lead Management System.
 
@@ -33,3 +36,4 @@ Lead Capture: Entry point for all new inquiries.
 
 Comment
 Ctrl+Alt+M
+
