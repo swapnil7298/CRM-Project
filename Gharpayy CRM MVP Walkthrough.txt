@@ -1,0 +1,39 @@
+https://gharpayycrm.web.app/
+try it out
+
+Gharpayy CRM MVP Walkthrough
+This walkthrough demonstrates the core functionality of the Gharpayy Lead Management System.
+
+Features Overview
+1. Lead Capture & Auto-Assignment
+Go to the Lead Capture tab. Fill out the form. Upon submission, the system automatically:
+
+Creates a new Lead Profile.
+Assigns it to an agent using the Round Robin method.
+Places it in the "New Lead" pipeline stage.
+2. Sales Pipeline (Kanban)
+View all leads in the Pipeline tab.
+
+Ownership: Each lead clearly shows its assigned agent.
+Status Tracking: Easily change a lead's stage via the dropdown menu.
+Follow-up Indicators: Leads with no activity for >24 hours are automatically flagged with a "Follow-up Needed" badge and a yellow border.
+3. Visit Scheduling
+Within the Pipeline, click the calendar icon on any lead card.
+
+Select a property from the catalog.
+Choose a date and time.
+The lead's status automatically updates to "Visit Scheduled".
+4. Business Dashboard
+Monitor overall performance in the Dashboard.
+
+Metrics: Total leads, visits scheduled, and conversions (Booked).
+Pipeline Breakdown: Visual progress bars showing the distribution across stages.
+Upcoming Visits: A dedicated list of upcoming property visits with their current status.
+Visual Proof
+Dashboard: High-level overview of lead metrics.
+Pipeline: Kanban board with assignment and status management.
+Lead Capture: Entry point for all new inquiries.
+
+Comment
+Ctrl+Alt+M
+
